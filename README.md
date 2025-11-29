@@ -1,12 +1,24 @@
-<bold>How to Use<bold> 
+<h1 align="center"> how to use </h1
+  
 
- <bold>Install Python <bold>
-Make sure Python 3 is installed on your system.
+  
+### Install 
+```
+pip install colorama
+```
 
-<code>pip install colorama<code>
+  
+## Usage 
+```
+Go to Discord Settings
+  Advanced
+    Enable Developer Mode
 
+When you right click on an user, the final option is "Copy ID", click it and input it into input
+```
 
-<code>python generator.py<code>
-
-<h3>by haruv<h3>
-
+## Run
+```
+ python3 DisId2token.py
+```
+  
