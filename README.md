@@ -19,6 +19,6 @@ When you right click on an user, the final option is "Copy ID", click it and inp
 
 ## Run
 ```
- python3 DisId2token.py
+ python3 disid2token.py
 ```
   
